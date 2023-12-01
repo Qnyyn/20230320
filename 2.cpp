@@ -12,7 +12,7 @@ class B: public A{
 };
 int main(){
 
-    int a = 999;
+    int b = 0;
 
 
 
