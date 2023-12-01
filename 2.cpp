@@ -12,9 +12,9 @@ class B: public A{
 };
 int main(){
 
-    
-    B m_a;
-    cout<<&m_a.a<<"    "<<&m_a.b<<"    "<<&m_a.c<<"    "<<&m_a.d<<endl;
+    int a = 999;
+
+
 
 
     return 0;
