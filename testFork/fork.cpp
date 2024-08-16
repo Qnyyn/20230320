@@ -12,6 +12,12 @@ void func3(){
     std::cout<<"这里是third改动"<<std::endl;
 }
 
+
+void branch_2(){
+    std::cout<<"branch_2"<<std::endl;
+}
+
+
 int main(){
     func();
 
